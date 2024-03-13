@@ -1,0 +1,12 @@
+{
+  "fileName": "graphql-main-diagram-visible-items.hbs",
+  "templateName": "GraphQL Schema Creation Script - Main diagram visible items",
+  "defaultFileSuffix": "js",
+  "singleFileOutput": false,
+  "platforms": [
+    "GRAPHQL"
+  ],
+  "syntaxHighlightingLanguage": "graphql",
+  "default": false,
+  "beautify": true
+}

@@ -1,0 +1,12 @@
+{
+  "fileName": "graphql-quotations-in-directives.hbs",
+  "templateName": "GraphQL Schema Creation Script - Quotations in directives",
+  "defaultFileSuffix": "js",
+  "singleFileOutput": false,
+  "platforms": [
+    "GRAPHQL"
+  ],
+  "syntaxHighlightingLanguage": "graphql",
+  "default": false,
+  "beautify": true
+}

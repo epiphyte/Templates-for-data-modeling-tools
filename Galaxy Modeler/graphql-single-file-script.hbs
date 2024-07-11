@@ -97,7 +97,7 @@ interface
 {{~#isValueDefined mainObject.afterScript}}{{mainObject.afterScript}}{{/isValueDefined~}}
 {{~/if~}}
 {{~#if mainObject.generateCustomCode~}}
-{{~#isValueDefined mainObject.customCode}}{{mainObject.customCode}}{{/isValueDefined~}}
+{{~#isValueDefined mainObject.customCode}}{{{mainObject.customCode}}}{{/isValueDefined~}}
 {{/if}}
 {{~/inline~}}
 
@@ -162,7 +162,7 @@ union
 {{~#isValueDefined unionObject.afterScript}}{{unionObject.afterScript}}{{/isValueDefined~}}
 {{~/if~}}
 {{~#if unionObject.generateCustomCode~}}
-  {{~#isValueDefined unionObject.customCode}}{{unionObject.customCode}}{{/isValueDefined~}}
+  {{~#isValueDefined unionObject.customCode}}{{{unionObject.customCode}}}{{/isValueDefined~}}
 {{/if}}
 {{~/inline~}}
 

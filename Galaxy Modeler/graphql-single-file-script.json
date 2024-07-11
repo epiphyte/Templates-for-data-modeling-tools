@@ -1,0 +1,15 @@
+{
+    "templateId": "32e54323-072e-3123-b0bd-24ccbff3a1d2",
+    "fileName": "graphql-single-file-script.hbs",
+    "templateName": "GraphQL schema creation script - single file",
+    "templateDescription": "Generates a single file with schema creation script for GraphQL objects in your project. ",
+    "defaultFileSuffix": "js",
+    "singleFileOutput": true,
+    "platforms": [
+        "GRAPHQL"
+    ],
+    "syntaxHighlightingLanguage": "graphql",
+    "default": false,
+    "beautify": true,
+    "templateIsActiveByDefault": true
+}

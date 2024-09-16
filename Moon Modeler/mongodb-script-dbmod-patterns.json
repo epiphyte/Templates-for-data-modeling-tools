@@ -1,0 +1,15 @@
+{
+    "templateId": "10000848-fca1-460b-8c71-03de76adcc00",
+    "fileName": "mongodb-script-dbmod-patterns.hbs",
+    "templateName": "MongoDB schema modification script (patch for patternProperties)",
+    "templateDescription": "Generates schema modification scripts for MongoDB collections. ",
+    "defaultFileSuffix": "js",
+    "singleFileOutput": false,
+    "platforms": [
+        "MONGODB"
+    ],
+    "syntaxHighlightingLanguage": "javascript",
+    "beautify": true,
+    "default": false,
+    "templateIsActiveByDefault": true
+}

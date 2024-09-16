@@ -1,0 +1,15 @@
+{
+    "templateId": "1a0fef1c-cc8d-4e74-a3ad-b8721357ce00",
+    "fileName": "mongodb-script-patterns.hbs",
+    "templateName": "MongoDB schema creation script (patch for patternProperties)",
+    "templateDescription": "Generates schema creation and validation scripts for MongoDB collections. ",
+    "defaultFileSuffix": "js",
+    "singleFileOutput": false,
+    "platforms": [
+        "MONGODB"
+    ],
+    "syntaxHighlightingLanguage": "javascript",
+    "beautify": true,
+    "default": false,
+    "templateIsActiveByDefault": true
+}

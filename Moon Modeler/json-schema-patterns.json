@@ -1,0 +1,17 @@
+{
+    "templateId": "b49500cb-34dc-4d97-8332-eed3f9c9d154",
+    "fileName": "json-schema-patterns.hbs",
+    "templateName": "Create JSON Schemas",
+    "templateDescription": "Generates JSON Schemas ",
+    "defaultFileSuffix": "json",
+    "singleFileOutput": false,
+    "platforms": [
+        "MONGODB",
+        "ALL",
+        "MONGOOSE"
+    ],
+    "syntaxHighlightingLanguage": "javascript",
+    "beautify": true,
+    "default": true,
+    "templateIsActiveByDefault": true
+}
